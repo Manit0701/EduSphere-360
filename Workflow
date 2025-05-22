@@ -1,0 +1,45 @@
+Webflow:- Frontend design, layout and embedding 3D scenes.
+Webflow is a powerful no-code web development tool we used to design   the layout and user interface of our website. It allowed us to create clean, professional-looking web pages without needing to write a lot of code.
+3.2.1.1 We used Webflow to arrange different sections of the site like the homepage, subjects, gallery, and more.
+3.2.1.2 It also made it easy to add animations and smooth transitions between pages.
+3.1.2.3 Most importantly, we were able to embed 3D scenes (created using Spline or other tools) directly into our Webflow pages, so users can interact with them while browsing the site.
+
+3.2.2 Spline:- 3D object creation, interactivity and real-time rendering.   
+Spline is a 3D design tool that lets you create and animate 3D objects directly 
+in the browser.   
+3.2.2.1  We used it to build interactive 3D scenes like rotating planets,         
+animated molecules, or working scientific models. 
+3.2.2.2 It supports real-time rendering, which means users can explore the 3D 
+content instantly, without needing to wait for it to load.
+3.2.2.3 Spline also allows for simple programming of interactivity, like clicking 
+a part of a model to learn more about it.
+         
+                          
+3.2.3 Sketchfab:- source for ready-made scientific 3D models.
+Sketchfab is an online platform where you can find and use thousands of 
+3D models created by artists and educators around the world.
+3.2.3.1 Instead of creating every single 3D model from scratch, we used  
+Sketchfab to find high-quality scientific models like atoms, engines,
+organs, and laboratory equipment.
+3.2.3.2 These models were then embedded into our site, saving time while 
+ensuring professional and accurate visuals.
+3.2.3.3 Many models on Sketchfab are interactive, letting users zoom in, 
+rotate, and explore in 3D.
+
+
+3.2.5 Game Physics(Spline):- Basic physics-based interactions like   solenoids  and domino effect.
+To make learning more engaging, we used Spline’s game physics features to simulate how objects behave in the real world.
+3.2.5.1 Solenoids Simulation:
+We created 3D scenes to show how solenoids (coils of wire) generate magnetic fields when electric current passes through them. Users could interact with the model to see how changing the current affects the magnetic field.
+This helps learners visualize electromagnetic concepts in an intuitive way.
+
+
+3.2.5.2 Domino Effect:
+We added chain reaction animations where one object hits another, knocking it over like falling dominoes. This effect was used to demonstrate scientific principles such as force, momentum, and energy transfer.
+For example, a scene showing how energy flows through a system of objects gives students a clear, memorable understanding of physical concepts.
+These physics effects are simple but powerful—they help bring abstract science ideas to life in a playful, hands-on way.
+3.3 Detailed Explanation of Algorithms, Frameworks, or Models
+Although no traditional algorithms were developed, the project integrates:
+3.3.1 Physics-based Interactions:- Using Spline’s built-in physics engine for effects like falling dominoes or rotating solenoids.
+3.3.2  Embedded Linking:- Spline models are linked directly into Webflow pages, ensuring real-time interaction without separate hosting or plugins.
+3.3.3 ​Responsive Flow:- Components resize and reflow based on screen size using Webflow’s flexbox and grid tools.
