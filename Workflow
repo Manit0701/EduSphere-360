@@ -33,13 +33,3 @@ To make learning more engaging, we used Spline’s game physics features to simu
 We created 3D scenes to show how solenoids (coils of wire) generate magnetic fields when electric current passes through them. Users could interact with the model to see how changing the current affects the magnetic field.
 This helps learners visualize electromagnetic concepts in an intuitive way.
 
-
-3.2.5.2 Domino Effect:
-We added chain reaction animations where one object hits another, knocking it over like falling dominoes. This effect was used to demonstrate scientific principles such as force, momentum, and energy transfer.
-For example, a scene showing how energy flows through a system of objects gives students a clear, memorable understanding of physical concepts.
-These physics effects are simple but powerful—they help bring abstract science ideas to life in a playful, hands-on way.
-3.3 Detailed Explanation of Algorithms, Frameworks, or Models
-Although no traditional algorithms were developed, the project integrates:
-3.3.1 Physics-based Interactions:- Using Spline’s built-in physics engine for effects like falling dominoes or rotating solenoids.
-3.3.2  Embedded Linking:- Spline models are linked directly into Webflow pages, ensuring real-time interaction without separate hosting or plugins.
-3.3.3 ​Responsive Flow:- Components resize and reflow based on screen size using Webflow’s flexbox and grid tools.
