@@ -1,10 +1,12 @@
 Webflow:- Frontend design, layout and embedding 3D scenes.
+
 Webflow is a powerful no-code web development tool we used to design   the layout and user interface of our website. It allowed us to create clean, professional-looking web pages without needing to write a lot of code.
 3.2.1.1 We used Webflow to arrange different sections of the site like the homepage, subjects, gallery, and more.
 3.2.1.2 It also made it easy to add animations and smooth transitions between pages.
 3.1.2.3 Most importantly, we were able to embed 3D scenes (created using Spline or other tools) directly into our Webflow pages, so users can interact with them while browsing the site.
 
 3.2.2 Spline:- 3D object creation, interactivity and real-time rendering.   
+
 Spline is a 3D design tool that lets you create and animate 3D objects directly 
 in the browser.   
 3.2.2.1  We used it to build interactive 3D scenes like rotating planets,         
@@ -16,6 +18,7 @@ a part of a model to learn more about it.
          
                           
 3.2.3 Sketchfab:- source for ready-made scientific 3D models.
+
 Sketchfab is an online platform where you can find and use thousands of 
 3D models created by artists and educators around the world.
 3.2.3.1 Instead of creating every single 3D model from scratch, we used  
@@ -28,6 +31,7 @@ rotate, and explore in 3D.
 
 
 3.2.5 Game Physics(Spline):- Basic physics-based interactions like   solenoids  and domino effect.
+
 To make learning more engaging, we used Spline’s game physics features to simulate how objects behave in the real world.
 3.2.5.1 Solenoids Simulation:
 We created 3D scenes to show how solenoids (coils of wire) generate magnetic fields when electric current passes through them. Users could interact with the model to see how changing the current affects the magnetic field.
